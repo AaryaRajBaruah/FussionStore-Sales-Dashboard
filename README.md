@@ -17,4 +17,5 @@ Actionable Insights and Recommendation: End goal is to share valuable insights a
 LEARNING:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, and interactive dashboard creation, driving business success.
 ![Fussion store](https://github.com/AaryaRajBaruah/FussionStore-Sales-Deshboard/assets/91695207/40d5faa0-f295-4659-ae3b-6eaa0341fc86)
+<br>
 ![Fussion Store Forecast](https://github.com/AaryaRajBaruah/FussionStore-Sales-Deshboard/assets/91695207/9bf7ef6d-b0a3-409e-a6c4-31f82db95bd6)
